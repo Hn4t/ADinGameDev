@@ -52,12 +52,33 @@ print("Hello World")
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity. 
+Ход работы:
+-Создан 3D проект
+-Создан в Assets C# скрипт HelloWorld
 
+```c#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
-```py
+public class HelloWorld : MonoBehaviour
+{
+    
+    // Start is called before the first frame update
+    void Start()
+    {
+        Debug.Log("Hello World")
+    }
 
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
 ```
-
+-Создан объект, к которому был прикреплен скрипт
+-Собираем проект и запускаем
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
 
