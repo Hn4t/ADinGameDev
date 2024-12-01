@@ -49,6 +49,7 @@
 print("Hello World")
 
 ```
+![image](https://github.com/user-attachments/assets/1b7e3b8f-5f9d-4509-8288-369ae21197db)
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity. 
@@ -64,38 +65,27 @@ using UnityEngine;
 public class HelloWorld : MonoBehaviour
 {
     
-    // Start is called before the first frame update
     void Start()
     {
         Debug.Log("Hello World")
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
 ```
 -Создан объект, к которому был прикреплен скрипт
 -Собираем проект и запускаем
+![image](https://github.com/user-attachments/assets/cd111fe8-e7cc-4065-8a22-cb97632598cf)
+
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
+Ход работы: -Создание аккаунт на GitHub
+-Скопировать шаблон в свой репозиторий на GitHub.
+-Внесены изменения в название дисциплины и ФИО.
+-Приведены в отчете результаты выполнения заданий 1 - 3.
 
 
 
 ## Выводы
-
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
+В результате проделанной работы я познакомилась с таким ПО как Anaconda, использовала его для написания кода на языке Python. Так же повторила вывод информации в консоль при помощи скрипта в Unity. 
 ## Powered by
 
 **BigDigital Team: Denisov | Fadeev | Panov**
