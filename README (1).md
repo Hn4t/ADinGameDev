@@ -86,6 +86,15 @@ public class HelloWorld : MonoBehaviour
 
 ## Выводы
 В результате проделанной работы я познакомилась с таким ПО как Anaconda, использовала его для написания кода на языке Python. Так же повторила вывод информации в консоль при помощи скрипта в Unity. 
+
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 ## Powered by
 
 **BigDigital Team: Denisov | Fadeev | Panov**
